@@ -1,0 +1,22 @@
+{
+  "name": "react-hooks-use-modal-form",
+  "version": "1.0.0",
+  "description": "a react hook to simplify the implementation of modals with form.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devshun/react-hooks-use-modal-form.git"
+  },
+  "author": "devshun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devshun/react-hooks-use-modal-form/issues"
+  },
+  "homepage": "https://github.com/devshun/react-hooks-use-modal-form#readme",
+  "peerDependencies": {
+    "react": "^16.8.0 || ^17.0.0"
+  }
+}
