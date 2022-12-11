@@ -4,7 +4,9 @@
   "description": "A custom hook to simplify implementation of modal with form.",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "rimraf ./dist && tsc",
+    "lint:tsc": "tsc --noEmit",
+    "lint:eslint": "eslint ./src"
   },
   "repository": {
     "type": "git",
