@@ -2,8 +2,6 @@
 
 simplifies the implementation of formatted modals
 
-<br />
-
 ## **Usage**
 
 ```
